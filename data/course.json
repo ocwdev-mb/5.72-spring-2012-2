@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "dee284fe-ba2d-cd9b-d3c5-4a8f23f01451",
+  "instructors": {
+    "content": [
+      "6bc6e4ba-f737-2bb1-0b1a-637e19424173"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "35b03ee5-4397-63ef-0fab-624b90fc8601",
+    "website": "5-72-non-equilibrium-statistical-mechanics-spring-2012"
+  },
+  "course_title": "Non-Equilibrium Statistical Mechanics",
+  "course_description": "This course discusses the principles and methods of non-equilibrium statistical mechanics. Basic topics covered are stochastic processes, regression and response theory, molecular hydrodynamics, and complex liquids. Selected applications, including fluctuation theorems, condensed phase reaction rate theory, electron transfer dynamics, enzymatic networks, photon counting statistics, single molecule kinetics, reaction-controlled diffusion, may also be discussed.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.72",
+  "course_image_thumbnail": {
+    "content": "b4b9a638-d5ed-f3dd-ae92-27adb0b9d50b",
+    "website": "5-72-non-equilibrium-statistical-mechanics-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "7993c927-87d6-4a03-a1fb-116851800e79",
+  "site_short_id": "5.72-spring-2012-2",
+  "title": "Course Metadata"
+}
